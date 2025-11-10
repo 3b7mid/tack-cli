@@ -4,7 +4,7 @@ A command-line interface (CLI) application for managing tasks with features to a
 
 ## Project URL
 
-[github.com/3b7mid/tack-cli](https://github.com/3b7mid/tack-cli)
+[roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
 
 ## Features
 
