@@ -2,6 +2,10 @@
 
 A command-line interface (CLI) application for managing tasks with features to add, update, delete, and track task status.
 
+## Project URL
+
+[github.com/3b7mid/tack-cli](https://github.com/3b7mid/tack-cli)
+
 ## Features
 
 - Add new tasks
