@@ -37,7 +37,7 @@ if (process.argv[2] === 'add' && process.argv[3]) {
     if (await fileExists(filePath)) {
         const data = JSON.parse(await readFile(filePath));
         const task = {
-            "id": data[data.length - 1]['id'] + 1,
+            "id": data.length ? data[data.length - 1]['id'] + 1 : 1,
             "description": input,
             "status": "todo",
             "createdAt": new Date(),
